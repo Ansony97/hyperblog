@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 holoholoholoholoedfdfdffdfdffdf
 
 
 
 
 que pasa perro
+=======
+holoholoholoholo
+blueblueblueblue
+>>>>>>> cabecera
