@@ -9,6 +9,8 @@ en este curso vemos de todo :
 * Trucos muy locos del profesor
 * Las personalidades multiples de freddy
 * platzi chido curso
+* ejem linux
+* disp todas las edades
 
 y como un amable recordatorio: **Este README.md es un chiste**. Diseñado para ejemplo.
 Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
